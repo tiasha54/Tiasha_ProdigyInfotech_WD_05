@@ -5,3 +5,4 @@ It fetches weather data from weather API based on user's location on a user-inpu
 It displays the current weather conditions,temparature,and other relevant information.
 
 
+Created by-Tiasha Bhattacharjee
