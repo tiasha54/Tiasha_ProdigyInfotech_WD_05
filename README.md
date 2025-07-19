@@ -1,2 +1,7 @@
 # Tiasha_ProdigyInfotech_WD_05
-A webpage that fetches weather data from weather API based on location(HTML/CSS/Java)
+
+Features:
+It fetches weather data from weather API based on user's location on a user-inputted location.
+It displays the current weather conditions,temparature,and other relevant information.
+
+
